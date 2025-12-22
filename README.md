@@ -18,17 +18,20 @@ The dashboard is designed for business stakeholders to quickly understand perfor
 - Sales trends over time
 - Performance breakdown by product category and region
 - Interactive filters for year, product, and region
+[![Executive Overview](screenshots/01_executive_overview.png)](screenshots/01_executive_overview.png)
 
 ### 2. Order-Level Drillthrough Analysis
 - Drillthrough from summary visuals to detailed transactions
 - Order date, product, region, salesperson, sales, cost, and profit
 - Context-aware filtering for selected year and dimensions
+[![Order-Level Drillthrough](screenshots/02_order_level_drillthrough.png)](screenshots/02_order_level_drillthrough.png)
 
 ### 3. Performance Drivers: Product & Region Analysis
 - Heatmap showing sales performance across products and regions
 - Decomposition tree to identify key sales drivers
 - Waterfall chart illustrating profit contribution by product
 - KPIs dynamically responding to selected context
+[![Performance Drivers](screenshots/03_performance_drivers.png)](screenshots/03_performance_drivers.png)
 
 ## Business Questions Answered
 - Which products and regions drive overall sales and profit?
