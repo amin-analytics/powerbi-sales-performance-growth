@@ -1,9 +1,21 @@
 # Sales Performance & Growth Analysis (Power BI)
-
+[![Live Dashboard](https://img.shields.io/badge/Live-Dashboard-blue)](https://bdcerts.com/projects/sales-performance)
 ## Project Overview
 This project demonstrates an end-to-end Business Intelligence solution built in Power BI, focusing on sales performance, profitability, and growth drivers.
 
 The dashboard is designed for business stakeholders to quickly understand performance trends, identify key contributors, and drill down into transactional details.
+
+## 🔗 Live Interactive Dashboard
+
+👉 **View Live Power BI Report (Web Version)**  
+[https://bdcerts.com/projects/sales-performance](https://bdcerts.com/projects/sales-performance)
+
+This page includes:
+- Embedded interactive Power BI dashboard
+- Executive overview and drillthrough pages
+- Optimized viewing for desktop and tablet
+
+> Note: Power BI Public link is embedded on the project page for seamless viewing.
 
 ## Key Highlights
 - Total Sales, Profit, Units Sold, and YoY Growth KPIs
@@ -55,12 +67,17 @@ The dashboard is designed for business stakeholders to quickly understand perfor
 ## Screenshots
 Screenshots of all pages are included in the `screenshots` folder for quick review.
 
+## 🔁 Direct Power BI Access (Optional)
+If you prefer to open the report directly in Power BI Service:
+
+🔗 https://app.powerbi.com/view?r=eyJrIjoiYWY5MGUzNWQtMWQ0Mi00ODY2LWI3YjAtMjFiYmEyMzQ4ODRhIiwidCI6IjJhMGRlOTE5LTRmNzUtNDhiYy1hMDJhLWUwMzRhMmM1MDgyMSIsImMiOjh9&pageName=2bc01b65d8eaacd153a4
+
 ## PBIX File Access
 The PBIX file is available upon request for hiring managers or reviewers.
 
 ## Author
 Amin  
 Helsinki, Finland  
-📧 amin.analytics1@gmail.com
+📧 amin@bdcerts.com 
 
 
